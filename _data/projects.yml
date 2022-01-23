@@ -1,0 +1,71 @@
+- title: SPEED Adapter
+  location: Sysco LABS
+  duration: Jan 2019 - Dec 2021
+  description: SPEED Adapter is built based on AWS Kinesis Streaming platform which provides the capability to ingest and consume serialized or binary data into/from Amazon Kinesis Streams.
+  technologies: Java | Maven | AWS Kinesis | Avro | Apache NiFi
+
+- title: Sysco Kinesis Agent
+  location: Sysco LABS
+  duration: Mar 2019 -  Dec 2021
+  description: A stand-alone Java application developed by enhancing the AWS Kinesis Agent to support to ingest compressed data into Amazon Kinesis Streams and supports data consumption through decompression.
+  technologies: Java | Maven | AWS Kinesis
+
+- title: SPEED Adapter 2.0
+  location: Sysco LABS
+  duration: Mar 2021 - Dec 2021
+  description: SPEED Adapter 2.0 is built based on Kafka platform which provides the capability to ingest and consume serialized or binary data into/from Kafka topics.
+  technologies: Java | Maven | Kafka | Avro | Python | NodeJS
+
+- title: API Central
+  location: Sysco LABS
+  duration: Jan 2019 - July 2021
+  description: A platform which provides API Management capabilities to Sysco with the use of WSO2 API Manager.
+  technologies: Java | Bash | AWS | Docker | Python
+
+- title: API Central 2.0
+  location: Sysco LABS
+  duration: Jan 2020 - Dec 2021
+  description: An ongoing project to provide API Management capabilities to Sysco with the use of Google Apigee API Manager.
+  technologies: Google Apigee | GO language | Java | Kotlin
+
+- title: Context Aware Hierarchical Aspect Aggregation
+  location: University of Moratuwa
+  duration: Jan 2018 - Dec 2018
+  description: A research on generation of review aspect term hierarchy using word embedding and clustering carried out as the Final Year Project of the undergraduate course.
+  technologies: Python | Machine Learning | Natural Language Processing | Data Mining
+
+- title: Code Review Coverage Reporter
+  location: LSEG Techology
+  duration: June 2017 - Dec 2017
+  description:  A tool which is currently used by LSEG Technology to measure the compliance of each project team to Code Review Guidelines.
+  technologies: Python | HTML | CSS | AngularJS | Grafana
+
+- title: DengAI-Predicting Disease Spread
+  location: University of Moratuwa
+  duration: Jan 2018 - July 2018
+  description: A project of predicting the number of dengue cases each week based on environmental variables.
+  technologies: Python | Machine Learning | Data Mining
+
+- title: Smart Math Tutor
+  location: University of Moratuwa
+  duration: Feb 2017 - May 2017
+  description: A stand-alone device that helps to solve handwritten or printed mathematical equations by capturing a photograph of it.
+  technologies: Python | Raspberry pi 3 | Raspberry Pi Camera Module V2 | LCD Screen
+
+- title: EpiCure
+  location: University of Moratuwa
+  duration: Sep 2016 - Dec 2017
+  description: Mobile app that can be used to collect epidemiologic data from across the country.
+  technologies: PHP | Laravel Framework | Android Studio | Sqlite | MySQL
+
+- title: Smart Wheelchair
+  location: University of Moratuwa
+  duration: Sep 2016 -  Dec 2016
+  description: Smart Wheelchair allows driving the wheelchair with use of hand movements.
+  technologies: Python | Myo-Band | Raspberry pi 3
+
+- title: Smart Gesture Glove
+  location: University of Moratuwa
+  duration: Jan 2016 - May 2016
+  description: A glove that allows speech impaired people to communicate by translating sign language into words and displaying it on a mobile app.
+  technologies: Android Studio | Ardiuno | Flex Sensors

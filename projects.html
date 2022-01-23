@@ -7,3 +7,27 @@ permalink: /projects/
 <header class="post-header">
     <h3 class="post-title">Projects</h3>
 </header>
+
+{% for project in site.data.projects %}
+<table>
+    <tbody>
+    <tr class="header">
+        <td>
+            <b>{{ project.title }}</b>
+            <br />
+            {{ project.technologies }}
+        </td>
+        <td width="25%">
+            {{ project.location }}
+            <br />
+            {{ project.duration }}
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: justify" colspan="3">
+            {{ project.description}}
+        </td>
+    </tr>
+    </tbody>
+</table>
+{% endfor %}
