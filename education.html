@@ -6,7 +6,7 @@ permalink: /education/
 
 <html>
 <head>
-    <title>Title of the document</title>
+    <title>Education</title>
     <style>
        h4 {
             margin-bottom:-2px;
@@ -17,51 +17,33 @@ permalink: /education/
     <header class="post-header">
         <h3 class="post-title">Education</h3>
     </header>
+    {% for education in site.data.education %}
     <table>
         <tr>
             <td width="3%">
                 <div style="width: 3em; height: 3em;">
-                    <img style="width: 80%; height: 80%; " src="../assets/img/ODU_logo.png">
+                    <img style="width: 50px; height: 40px; object-fit: contain;" src="{{education.logo | relative_url}}">
                 </div>
             </td>
             <td>
-                <h4> Old Dominion University, USA </h4>
-                <b>Ph.D. - Computer Science</b> <br/>
+                <strong> {{education.degree}} in {{education.major}}</strong><br/>
+                 {{education.name}}
             </td>
-            <td width="18%">
-                Jan 2022 - Present</br>
+            <td width="21%">
+                <small>{{education.term}}</small>
             </td>
         </tr>
         <tr>
             <td style="text-align: justify" colspan="3">
-
+                <small style="font-size: 0.95em">{{education.description | markdownify }} </small><br/> |
+                {%- for extra in education.extra -%}
+                <small><strong> {{ extra.key }}</strong> - {{ extra.value }} </small> |
+                {% endfor %}
             </td>
         </tr>
 
     </table>
 
-    <table>
-        <tr>
-            <td width="3%">
-                <div style="width: 3em; height: 3em;">
-                    <img style="width: 100%; height: 100%;" src="../assets/img/UOM_logo.png">
-                </div>
-            </td>
-            <td>
-                <h4> University of Moratuwa, Sri Lanka </h4>
-                <b>B.Sc. Engineering (Hons) - Computer Science & Engineering</b> <br/>
-            </td>
-            <td width="18%">
-                Oct 2014 – Dec 2018</br>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align: justify" colspan="3">
-                Specialized in Integrated Computer Engineering (ICE) <br/>
-                <b>GPA:</b> 3.71 (First Class)
-            </td>
-        </tr>
-
-    </table>
+    {% endfor %}
 
 </body>
