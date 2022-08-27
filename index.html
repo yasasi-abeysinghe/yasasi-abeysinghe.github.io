@@ -14,16 +14,14 @@ layout: home
       cursor: pointer;
       background-color: white;
       color: black;
-      border: 2px solid #008CBA;
+      border: 1px solid #008CBA;
+      border-radius: 6px;
+      font-size: 1em;
 
       .button:hover {
           background-color: #008CBA;
           color: white;
         }
-
-      .table {
-          boarder: none;
-         }
     </style>
 </head>
 <body>
@@ -37,13 +35,12 @@ layout: home
                 </div>
             </td>
             <td width="39%">
-                <h3>Yasasi Abeysinghe</h3>
-                <h4>Ph.D. Student</h4>
-                Department of Computer Science <br/>
-                College of Science <br/>
-                Old Dominion University <br/>
-                Norfolk, VA 23529 <br/>
-                <a href="mailto:yasasi@cs.odu.edu">yasasi@cs.odu.edu</a>
+                <h2>{{ site.data.info.name }}</h2>
+                <h3 style="padding: 0px; margin: 0px;"><b>{{ site.data.info.designation }}</b></h3>
+                {% for line in site.data.info.location %}
+                {{ line }}<br />
+                {% endfor %}
+                <a href="mailto:{{ site.data.info.social.email }}">{{ site.data.info.social.email }}</a>
             </td>
             <td width="29%">
 
@@ -58,15 +55,20 @@ layout: home
     <table>
         <tr>
             <td>
-                <h4>About Me</h4>
-                I am a Ph.D. student in Computer Science at Old Dominion University, USA.
-                Prior to that, I was working as a Senior Software Engineer at <a href="https://www.syscolabs.com">Sysco LABS</a>.
-                I graduated with a B.Sc. Engineering (Hons) degree in Computer Science and Engineering at University of Moratuwa in 2018 with first class honours. <br/><br/>
-                <b>Research Interests:</b> Machine Learning, Data Science, and Human Computer Interaction
+                <h4><b>About Me</b></h4>
+                {{ site.data.info.about | markdownify }}
+                <b>Research Interests:</b> {{ site.data.info.interests }}
             </td>
         </tr>
     </table>
-    You can download a <a href="assets/Resume.pdf" target="_blank">PDF version of my CV.</a>
+        <b>See My</b>
+        <a href="assets/Resume.pdf" target="_blank">
+            <button class="button" style="padding: 0.5em 1em; font-weight: bold; color: #008CBA;"> Resume </button>
+        </a>
+        <a href="assets/Resume.pdf" target="_blank">
+            <button class="button" style="padding: 0.5em 1em; font-weight: bold; color: #008CBA;"> CV </button>
+        </a>
+
     </div>
 </main>
 </body>
