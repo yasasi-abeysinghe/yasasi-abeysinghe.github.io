@@ -1,0 +1,55 @@
+- name: Old Dominion University, USA
+  logo: assets/img/ODU_logo.png
+  degree: Ph.D.
+  major: Computer Science
+  term: Jan 2022 - Present
+  description: |-
+    I studied
+  extra:
+    - key: GPA
+      value: 4.0 / 4.0
+    - key: Advisor
+      value: <a href="https://www.cs.odu.edu/~sampath/">Dr. Sampath Jayarathna</a>
+    - key: Key Courses
+      value: Data Science & Analytic, Natural Language Processing, Algorithms & Data Structures, Research Methods
+
+- name: University of Moratuwa, Sri Lanka
+  logo: assets/img/UOM_logo.png
+  degree: B.Sc. Engineering (Hons)
+  major: Computer Science & Engineering
+  term: Oct 2014 – Dec 2018
+  description: |-
+    I specialized in Integrated Computer Engineering (ICE)
+  extra:
+    - key: GPA
+      value: 3.71 / 4.2
+    - key: Awards
+      value: CINTEC Award - Academic Year 2017/2018, Graduated with First Class, Dean’s list (Semesters 2, 6, & 8)
+    - key: Advisor
+      value: <a href="https://rtuthaya.lk">Dr. Uthayasanker Thayasivam</a>
+    - key: Key Courses
+      value: Machine Learning, Data Mining & Information Retrieval, Human Computer Interraction, Data Structures & Algorithms, Computer Architecture, Machine Vision, Bioinformatics, Embedded Software Development
+
+- name: National Institute of Business Management, Sri Lanka
+  logo: assets/img/NIBM_logo.png
+  degree: Diploma
+  major: Computer System Design
+  term: Oct 2013 – Oct 2014
+  description: |-
+    I specialized in Integrated Computer Engineering (ICE)
+  extra:
+    - key: Awards
+      value: Distinction
+    - key: Key Courses
+      value:
+
+- name: Oxford College of Business, Sri Lanka
+  logo: assets/img/OxfordBC_logo.jpg
+  degree: Diploma
+  major: English
+  term: Sep 2013 – Jan 2014
+  description: |-
+    I specialized in Integrated Computer Engineering (ICE)
+  extra:
+    - key: Awards
+      value: Distinction
