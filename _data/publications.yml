@@ -1,0 +1,43 @@
+- type: Conference Proceedings
+  publications:
+    - authors: Bhanuka Mahanama, Gavindya Jayawardena, <b>Yasasi Abeysinghe</b>, Vikas Ashok, Sampath Jayarathna
+      published: 2022
+      title: Multidisciplinary Reading Patterns of Digital Documents
+      in: 2022 Symposium on Eye Tracking Research and Applications (ETRA '22). Association for Computing Machinery, New York, NY, USA, Article 40, 1–2. <a href="https://doi.org/10.1145/3517031.3531630">https://doi.org/10.1145/3517031.3531630</a>
+
+    - authors: James Owens, Gavindya Jayawardena, <b>Yasasi Abeysinghe</b>, Vikas G Ashok, Sampath Jayarathna
+      published: 2022
+      title: Objective Measure of Working Memory Capacity Using Eye Movements
+      in: ODU Digital Commons. <a href="https://digitalcommons.odu.edu/undergradsymposium/2022/posters/22/">https://digitalcommons.odu.edu/undergradsymposium/2022/posters/22</a>
+
+    - authors: Rashindrie Perera, Tamasha Malepathirana, <b>Yasasi Abeysinghe</b>, Yumna Albar, Uthayasanker Thayasivam
+      published: 2019
+      title: Amalgamation of general and domain specific word embeddings for improved hierarchical aspect aggregation
+      in: 2019 IEEE 13th International Conference on Semantic Computing (ICSC).  pp. 55-62, <a href="https://doi.org/10.1109/ICOSC.2019.8665518">https://doi.org/10.1109/ICOSC.2019.8665518</a>
+
+    - authors: Tamasha Malepathirana, Rashindrie Perera, <b>Yasasi Abeysinghe</b>, Yumna Albar, Uthayasanker Thayasivam
+      published: 2019
+      title: Adaptation of Multivariate Concept to Multi-Way Agglomerative Clustering for Hierarchical Aspect Aggregation
+      in: AAAI The Thirty-Second International Flairs Conference
+
+- type: Blog Posts
+  publications:
+    - authors: <b>Yasasi Abeysinghe</b>, Bhanuka Mahanama
+      published: July 2022
+      title: Disinformation Detection and Analytics REU Program - Mid Summer Presentations
+      in: <a href="https://ws-dl.blogspot.com/2022/07/2022-07-15-disinformation-detection-and.html"> https://ws-dl.blogspot.com/2022/07/2022-07-15-disinformation-detection-and.html</a>
+
+    - authors: Gavindya Jayawardena, Bhanuka Mahanama, <b>Yasasi Abeysinghe</b>
+      published: July 2022
+      title: ACM Symposium on Eye Tracking Research and Applications (ETRA) 2022 Trip Report
+      in: <a href="https://ws-dl.blogspot.com/2022/07/2022-07-14-acm-symposium-on-eye.html"> https://ws-dl.blogspot.com/2022/07/2022-07-14-acm-symposium-on-eye.html </a>
+
+    - authors: <b>Yasasi Abeysinghe</b>
+      published: May 2022
+      title: Regular Expression Rule-Based Approach for Table and Figure Reference Extraction from Scientific Papers
+      in: <a href="https://ws-dl.blogspot.com/2022/05/2022-05-19-regular-expression-rule.html">https://ws-dl.blogspot.com/2022/05/2022-05-19-regular-expression-rule.html</a>
+
+    - authors: <b>Yasasi Abeysinghe</b>
+      published: March 2022
+      title: Introduction Blog
+      in: <a href="https://ws-dl.blogspot.com/2022/03/2022-03-14-yasasi-abeysinghe-computer.html">https://ws-dl.blogspot.com/2022/03/2022-03-14-yasasi-abeysinghe-computer.html</a>

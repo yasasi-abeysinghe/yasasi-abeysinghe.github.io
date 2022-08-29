@@ -7,12 +7,25 @@ permalink: /publications/
 <header class="post-header">
     <h3 class="post-title">Publications</h3>
 </header>
-<ul>
-    <li>
-        Rashindrie Perera,Tamasha Malepathirana,Yasasi Abeysinghe, Yumna Albar, and Uthayasanker Thayasivam (Jan. 2019). “Amalgamation of General and Domain Specific Word Embeddings for Improved Hierarchical Aspect Aggregation”. In: pp. 55–62. DOI: 10.1109/ICOSC.2019.8665518.
-    </li>
-    <br/>
-    <li>
-        Tamasha Malepathirana,Rashindrie Perera,Yasasi Abeysinghe, Yumna Albar, and Uthayasanker Thayasivam (Oct. 2019). “Adaptation of Multivariate Concept to Multi-Way Agglomerative Clustering for Hierarchical Aspect Aggregation”. In: pp. 391–395.
-    </li>
-</ul>
+{% for group in site.data.publications %}
+<table>
+    <tbody>
+    <tr>
+        <td>
+            <strong>{{ group.type }}</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                {% for publication in group.publications %}
+                <li>
+                    {{ publication.authors }} ({{ publication.published }}). "{{ publication.title }}". In: {{ publication.in }}
+                </li><br/>
+                {% endfor %}
+            </ul>
+        </td>
+    </tr>
+    </tbody>
+</table>
+{% endfor %}
