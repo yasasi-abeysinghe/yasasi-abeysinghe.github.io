@@ -18,18 +18,20 @@ permalink: /awards/
     <h3 class="post-title">Awards</h3>
 </header>
 <body>
+{% for award in site.data.awards %}
     <table>
         <tr>
             <td>
-                <h4>CINTEC Award - Academic Year 2017/2018</h4>
-                <b>University of Moratuwa</b> <br/>
+                <h4>{{ award.name }} - {{ award.year }}</h4>
+                <b> {{ award.location }} </b> <br/>
             </td>
         </tr>
         <tr>
             <td>
-                This is awarded to the student who has earned the highest marks for the Final Year Research.
+                {{ award.description }}
             </td>
         </tr>
 
     </table>
+{% endfor %}
 </body>
