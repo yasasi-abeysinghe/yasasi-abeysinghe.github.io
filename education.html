@@ -35,7 +35,7 @@ permalink: /education/
         </tr>
         <tr>
             <td style="text-align: justify" colspan="3">
-                <small style="font-size: 0.95em">{{education.description | markdownify }} </small><br/> |
+                <small style="font-size: 0.95em">{{education.description | markdownify }} </small>|
                 {%- for extra in education.extra -%}
                 <small><strong> {{ extra.key }}</strong> - {{ extra.value }} </small> |
                 {% endfor %}

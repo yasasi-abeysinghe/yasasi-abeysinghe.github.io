@@ -4,7 +4,12 @@
   major: Computer Science
   term: Jan 2022 - Present
   description: |-
-    I studied
+    I am a part of the <a href="https://nirdslab.github.io" class="button">NIRDS Lab</a>
+    (Neuro-Information Retrieval and Data Science Lab) in <a href="https://oduwsdl.github.io" class="button">WS-DL</a>
+    (Web Science and Digital Libraries Research Group). At ODU, I study Data Science, Algorithms, and Machine Learning
+    related courses. While my main research focus is on Eye tracking, I also work on collaborative research and development work
+    with Applied Machine Learning and Natural Language Processing Systems (<a href="https://github.com/lamps-lab">LAMP-SYS</a>)
+    lab at ODU.
   extra:
     - key: GPA
       value: 4.0 / 4.0
@@ -19,7 +24,10 @@
   major: Computer Science & Engineering
   term: Oct 2014 – Dec 2018
   description: |-
-    I specialized in Integrated Computer Engineering (ICE)
+    I specialized in Integrated Computer Engineering (ICE) studying Embedded Systems Programming, Database Systems,
+    Algorithms, Embedded Software Development, Robotics & Automation, and Machine Learning. In my final year, I conducted
+    a research on “Generation of Review Aspect Hierarchy using Word Embedding and Clustering” (Project: Context Aware
+    Hierarchical Aspect Aggregation)
   extra:
     - key: GPA
       value: 3.71 / 4.2
@@ -28,15 +36,14 @@
     - key: Advisor
       value: <a href="https://rtuthaya.lk">Dr. Uthayasanker Thayasivam</a>
     - key: Key Courses
-      value: Machine Learning, Data Mining & Information Retrieval, Human Computer Interraction, Data Structures & Algorithms, Computer Architecture, Machine Vision, Bioinformatics, Embedded Software Development
+      value: Machine Learning, Data Mining & Information Retrieval, Human Computer Interraction, Machine Vision, Robotics & Automation, Bioinformatics
 
 - name: National Institute of Business Management, Sri Lanka
   logo: assets/img/NIBM_logo.png
   degree: Diploma
   major: Computer System Design
   term: Oct 2013 – Oct 2014
-  description: |-
-    I specialized in Integrated Computer Engineering (ICE)
+  description:
   extra:
     - key: Awards
       value: Distinction
@@ -48,8 +55,7 @@
   degree: Diploma
   major: English
   term: Sep 2013 – Jan 2014
-  description: |-
-    I specialized in Integrated Computer Engineering (ICE)
+  description:
   extra:
     - key: Awards
       value: Distinction
