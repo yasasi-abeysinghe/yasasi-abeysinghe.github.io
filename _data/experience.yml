@@ -3,13 +3,21 @@
   designation: Graduate Research Assistant, Department of Computer Science
   term: Jan 2022 - Present
   description: |-
-    I am currently researching on identifying objective measures using eye movements to effectively assess the engagement
+    I am currently researching on analyzing users’ eye movements within Virtual Reality/Augmented Reality. I researched 
+    on identifying objective measures using eye movements to effectively assess the engagement
     of fake news. I  worked on a project that analyzes the reading patterns of researchers using eye tracking.
     I collaborated with Pennsylvania State University on researching and developing methods to automatically extract
     features from papers for predicting reproducibility of scientific papers. I also worked on encoding
     Electronic Theses and Dissertations (ETDs) using word embedding and building a heuristic classifier
     that will predict if a given page of ETD is a title page or not. I volunteered as a graduate student assistant for the <a href="https://oducsreu.github.io">
     ODU Research Experiences for Undergraduates (REU)</a> in Disinformation Detection and Analytics Summer 2022 program.
+
+- affiliation: Old Dominion University, USA
+  logo: assets/img/ODU_logo.png
+  designation: Graduate Teaching Assistant, Department of Computer Science
+  term: Aug 2023 - Dec 2023
+  description: |-
+    Course: Natural Language Processing
 
 - affiliation: Sysco LABS, Sri Lanka
   logo: assets/img/Sysco_logo.png

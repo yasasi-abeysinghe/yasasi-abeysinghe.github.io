@@ -1,14 +1,31 @@
+- type: Journal Article
+  publications:
+    - authors: <b>Yasasi Abeysinghe</b>, Bhanuka Mahanama, Gavindya Jayawardena, Yasith Jayawardana, Mohan Sunkar, Andrew T. Duchowski, Vikas Ashok, and Sampath Jayarathna
+      published: 2024
+      title: A-DisETrac Advanced Analytic Dashboard for Distributed Eye Tracking
+      in: International Journal of Multimedia Data Engineering and Management (IJMDEM) 15.1, pp. 1–20, <a href="https://doi.org/10.4018/IJMDEM.341792">https://doi.org/10.4018/IJMDEM.341792</a>
+
 - type: Conference Proceedings
   publications:
+    - authors: <b>Yasasi Abeysinghe</b>
+      published: 2023
+      title: Can Reading Web-based Information Affect Human Working Memory Capacity:An Eye Tracking Study
+      in: Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2023. Doctoral Consortium Paper
+
+    - authors: <b>Yasasi Abeysinghe</b>
+      published: 2023
+      title: Evaluating Human Eye Features for Objective Measure of Working Memory Capacity
+      in: Proceedings of the 2023 Symposium on Eye Tracking Research and Applications. Doctoral Consortium Paper, <a href="https://doi.org/10.1145/3588015.3589537">https://doi.org/10.1145/3588015.3589537</a>
+
+    - authors: <b>Yasasi Abeysinghe</b>, Bhanuka Mahanama, Gavindya Jayawardena, Mohan Sunkar, Vikas Ashok, and Sampath Jayarathna
+      published: 2023
+      title: Gaze Analytics Dashboard for Distributed Eye Tracking
+      in: 2023 IEEE 24th International Conference on Information Reuse and Integration for Data Science (IRI). pp. 140-145, <a href="https://doi.org/10.1109/IRI58017.2023.00031">https://doi.org/10.1109/IRI58017.2023.00031</a>
+
     - authors: Bhanuka Mahanama, Gavindya Jayawardena, <b>Yasasi Abeysinghe</b>, Vikas Ashok, Sampath Jayarathna
       published: 2022
       title: Multidisciplinary Reading Patterns of Digital Documents
-      in: 2022 Symposium on Eye Tracking Research and Applications (ETRA '22). Association for Computing Machinery, New York, NY, USA, Article 40, 1–2. <a href="https://doi.org/10.1145/3517031.3531630">https://doi.org/10.1145/3517031.3531630</a>
-
-    - authors: James Owens, Gavindya Jayawardena, <b>Yasasi Abeysinghe</b>, Vikas G Ashok, Sampath Jayarathna
-      published: 2022
-      title: Objective Measure of Working Memory Capacity Using Eye Movements
-      in: ODU Digital Commons. <a href="https://digitalcommons.odu.edu/undergradsymposium/2022/posters/22/">https://digitalcommons.odu.edu/undergradsymposium/2022/posters/22</a>
+      in: Proceedings of the 2022 Symposium on Eye Tracking Research and Applications (ETRA '22). Association for Computing Machinery, New York, NY, USA, Article 40, 1–2. <a href="https://doi.org/10.1145/3517031.3531630">https://doi.org/10.1145/3517031.3531630</a>
 
     - authors: Rashindrie Perera, Tamasha Malepathirana, <b>Yasasi Abeysinghe</b>, Yumna Albar, Uthayasanker Thayasivam
       published: 2019
@@ -20,24 +37,82 @@
       title: Adaptation of Multivariate Concept to Multi-Way Agglomerative Clustering for Hierarchical Aspect Aggregation
       in: AAAI The Thirty-Second International Flairs Conference
 
+- type: Posters
+  publications:
+    - authors: <b>Yasasi Abeysinghe</b>, Gavindya Jayawardana, Autumn Woodson, Efe Bozkir, Enkelejda Kasneci, Andrew Duchowski, Sampath Jayarathna
+      published: 2023
+      title: Exploring Human Perception while Reading Fake and Real News Articles
+      in: 2023 Graduate Research Achievement Day, College of Sciences, Old Dominion University, <a href="https://doi.org/10.25883/p13j-m485">https://doi.org/10.25883/p13j-m485</a>
+
+    - authors: James Owens, Gavindya Jayawardana, <b>Yasasi Abeysinghe</b>, Vikas G. Ashok, Sampath Jayarathna
+      published: 2024
+      title: Towards a Measure of Working Memory Capacity via Eye Gaze Measurements
+      in: 2024 Undergraduate Research Symposium, College of Sciences, Old Dominion University
+
+    - authors: James Owens, Gavindya Jayawardana, <b>Yasasi Abeysinghe</b>, Vikas G. Ashok, Sampath Jayarathna
+      published: 2023
+      title: Main Sequence Relationships, Task Load, and Cognitive Load
+      in: 2023 Undergraduate Research Symposium, College of Sciences, Old Dominion University
+
+    - authors: James Owens, Gavindya Jayawardana, <b>Yasasi Abeysinghe</b>, Vikas G. Ashok, Sampath Jayarathna
+      published: 2022
+      title: Objective Measure of Working Memory Capacity Using Eye Movements
+      in: 2022 Undergraduate Research Symposium, College of Sciences, Old Dominion University
+
+
 - type: Blog Posts
   publications:
+    - authors: <b>Yasasi Abeysinghe</b>
+      published: May, 2024
+      title: A-DisETrac Advanced Analytic Dashboard for Distributed Eye Tracking
+      in: <a href="https://ws-dl.blogspot.com/2024/05/2024-05-14-disetrac-advanced-analytic.html">https://ws-dl.blogspot.com/2024/05/2024-05-14-disetrac-advanced-analytic.html</a>
+
+    - authors: <b>Yasasi Abeysinghe</b>
+      published: January, 2024
+      title: Disinformation Detection and Analytics REU Program - Final Presentations
+      in: <a href="https://ws-dl.blogspot.com/2024/01/2024-01-30-disinformation-detection-and.html">https://ws-dl.blogspot.com/2024/01/2024-01-30-disinformation-detection-and.html</a>
+
+    - authors: <b>Yasasi Abeysinghe</b>
+      published: November, 2023
+      title: IEEE International Conference on Information Reuse and Integration for Data Science (IRI) 2023 Trip Report
+      in: <a href="https://ws-dl.blogspot.com/2023/11/2023-11-22-ieee-international.html">https://ws-dl.blogspot.com/2023/11/2023-11-22-ieee-international.html</a>
+
+    - authors: <b>Yasasi Abeysinghe</b>
+      published: August, 2023
+      title: Real-time Interactive Dashboard for Data in a Distributed System
+      in: <a href="https://ws-dl.blogspot.com/2023/08/2023-08-15-real-time-interactive.html">https://ws-dl.blogspot.com/2023/08/2023-08-15-real-time-interactive.html</a>
+
+    - authors: Gavindya Jayawardena, <b>Yasasi Abeysinghe</b>
+      published: July, 2023
+      title: Disinformation Detection and Analytics REU Program - Mid Summer Presentations - 2023
+      in: <a href="https://ws-dl.blogspot.com/2023/07/2023-07-31-disinformation-detection-and.html">https://ws-dl.blogspot.com/2023/07/2023-07-31-disinformation-detection-and.html</a>
+
+    - authors: <b>Yasasi Abeysinghe</b>, Bhanuka Mahanama, Lesley Frew, Himarsha Jayanetti
+      published: July, 2023
+      title: ACM/IEEE Joint Conference on Digital Libraries (JCDL) 2023 Trip Report
+      in: <a href="https://ws-dl.blogspot.com/2023/07/2023-07-26-acmieee-joint-conference-on.html">https://ws-dl.blogspot.com/2023/07/2023-07-26-acmieee-joint-conference-on.html </a>
+
+    - authors: <b>Yasasi Abeysinghe</b>, Gavindya Jayawardena
+      published: June, 2023
+      title: ACM Symposium on Eye Tracking Research and Applications (ETRA) 2023 Trip Report
+      in: <a href="https://ws-dl.blogspot.com/2023/06/2023-06-20-acm-symposium-on-eye.html"> https://ws-dl.blogspot.com/2023/06/2023-06-20-acm-symposium-on-eye.html </a>
+
     - authors: <b>Yasasi Abeysinghe</b>, Bhanuka Mahanama
-      published: July 2022
-      title: Disinformation Detection and Analytics REU Program - Mid Summer Presentations
+      published: July, 2022
+      title: Disinformation Detection and Analytics REU Program - Mid Summer Presentations - 2022
       in: <a href="https://ws-dl.blogspot.com/2022/07/2022-07-15-disinformation-detection-and.html"> https://ws-dl.blogspot.com/2022/07/2022-07-15-disinformation-detection-and.html</a>
 
     - authors: Gavindya Jayawardena, Bhanuka Mahanama, <b>Yasasi Abeysinghe</b>
-      published: July 2022
+      published: July, 2022
       title: ACM Symposium on Eye Tracking Research and Applications (ETRA) 2022 Trip Report
       in: <a href="https://ws-dl.blogspot.com/2022/07/2022-07-14-acm-symposium-on-eye.html"> https://ws-dl.blogspot.com/2022/07/2022-07-14-acm-symposium-on-eye.html </a>
 
     - authors: <b>Yasasi Abeysinghe</b>
-      published: May 2022
+      published: May, 2022
       title: Regular Expression Rule-Based Approach for Table and Figure Reference Extraction from Scientific Papers
       in: <a href="https://ws-dl.blogspot.com/2022/05/2022-05-19-regular-expression-rule.html">https://ws-dl.blogspot.com/2022/05/2022-05-19-regular-expression-rule.html</a>
 
     - authors: <b>Yasasi Abeysinghe</b>
-      published: March 2022
+      published: March, 2022
       title: Introduction Blog
       in: <a href="https://ws-dl.blogspot.com/2022/03/2022-03-14-yasasi-abeysinghe-computer.html">https://ws-dl.blogspot.com/2022/03/2022-03-14-yasasi-abeysinghe-computer.html</a>

@@ -1,20 +1,35 @@
+- title: Gaze Analytics Dashboard for Distributed Eye Tracking
+  location: Old Dominion University
+  duration: Jan 2023 – Ongoing
+  description: Interactive gaze analytics dashboard that generates and visualizes real-time advanced gaze measures in a distributed eye-tracking system.
+  technologies: Python | Pandas | MQTT | Holoviz | Streamz | Git
+
 - title: Assess Fake News Engagement via Eye movements
   location: Old Dominion University
   duration: Jan 2022 – Ongoing
-  description: Research on analyzing eye movement data to identify reading patterns of participants and to identify objective measures using eye movements to effectively assess the engagement of fake news.
-  technologies: Python | Machine Learning
+  description: Research on analyzing eye movement data to identify reading patterns of participants and to identify objective measures using eye movements to effectively assess the engagement of fake news. <br/> <a href="https://github.com/nirdslab/FakeNewsDataAnalysis">https://github.com/nirdslab/FakeNewsDataAnalysis</a>
+  technologies: Python | Pandas | NumPy | SciKit | Git
 
 - title: Automatic Feature Extraction from Scientific Papers
   location: Old Dominion University
   duration: Jan 2022 – Aug 2022
-  description: Research and development of automatic feature extraction from scientific papers including table references, figure references, gender diversity of authors, and novelty score for predicting reproducibility of scientific papers.
-  technologies: Python | Regular Expression | Gender API
+  description: Research and development of automatic feature extraction from scientific papers including table references, figure references, gender diversity of authors, and novelty score for predicting reproducibility of scientific papers. 
+               <br/><a href="https://github.com/lamps-lab/TableAndFigureReferenceExtractor">https://github.com/lamps-lab/TableAndFigureReferenceExtractor</a>
+               <br/><a href="https://github.com/lamps-lab/GenderDiversityByAuthorNames">https://github.com/lamps-lab/GenderDiversityByAuthorNames</a>
+  technologies: Python | Pandas | NumPy | SciKit | Git | Regular Expression | Gender API
 
 - title: ETD Title Page Classifier
   location: Old Dominion University
   duration: May 2022 – June 2022
   description: Heuristic classifier that will predict if a given page of Electronic Theses and Dissertations (ETDs) is a title page or not.
-  technologies: Python | Machine Learning | Natural Language Processing
+               <br/><a href="https://github.com/lamps-lab/ETDTitlePageClassifier.git">https://github.com/lamps-lab/ETDTitlePageClassifier.git</a>
+  technologies: Python | NumPy | NLTK | Machine Learning | Natural Language Processing
+
+- title: Exploring STEM Educational Delivery in Norfolk Juvenile Detention Center
+  location: Old Dominion University
+  duration: August 2022 – Ongoing
+  description: A case study of STEM learning at Norfolk Juvenile Detention Center. This entails identifying barriers to STEM education accessibility in Norfolk Juvenile Detention Center, assessing challenges due to pandemic, and anticipating future challenges in personalized STEM learning ecosystems.
+  technologies: NVivo
 
 - title: SPEED Adapter
   location: Sysco LABS

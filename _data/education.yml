@@ -13,10 +13,12 @@
   extra:
     - key: GPA
       value: 4.0 / 4.0
+    - key: Awards
+      value: Outstanding Researcher - Academic Year 2023/2024, Irwin B. Levinstein Scholarship - Academic Year 2023/2024
     - key: Advisor
       value: <a href="https://www.cs.odu.edu/~sampath/">Dr. Sampath Jayarathna</a>
     - key: Key Courses
-      value: Data Science & Analytic, Natural Language Processing, Algorithms & Data Structures, Research Methods
+      value: Data Science & Analytic, Natural Language Processing, Algorithms & Data Structures, Human-Computer Interaction, Pattern Recognition and Analysis, Information Visualization, Database Concepts
 
 - name: University of Moratuwa, Sri Lanka
   logo: assets/img/UOM_logo.png
